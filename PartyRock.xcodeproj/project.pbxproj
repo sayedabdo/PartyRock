@@ -12,6 +12,7 @@
 		1622B294202B9E9D009EBA15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1622B292202B9E9D009EBA15 /* Main.storyboard */; };
 		1622B296202B9E9D009EBA15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1622B295202B9E9D009EBA15 /* Assets.xcassets */; };
 		1622B299202B9E9D009EBA15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1622B297202B9E9D009EBA15 /* LaunchScreen.storyboard */; };
+		1622B2A1202B9FA1009EBA15 /* still time.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1622B2A0202B9FA1009EBA15 /* still time.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1622B295202B9E9D009EBA15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1622B298202B9E9D009EBA15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1622B29A202B9E9D009EBA15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1622B2A0202B9FA1009EBA15 /* still time.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "still time.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1622B292202B9E9D009EBA15 /* Main.storyboard */,
 				1622B295202B9E9D009EBA15 /* Assets.xcassets */,
 				1622B297202B9E9D009EBA15 /* LaunchScreen.storyboard */,
+				1622B2A0202B9FA1009EBA15 /* still time.ttf */,
 				1622B29A202B9E9D009EBA15 /* Info.plist */,
 			);
 			path = PartyRock;
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1622B299202B9E9D009EBA15 /* LaunchScreen.storyboard in Resources */,
+				1622B2A1202B9FA1009EBA15 /* still time.ttf in Resources */,
 				1622B296202B9E9D009EBA15 /* Assets.xcassets in Resources */,
 				1622B294202B9E9D009EBA15 /* Main.storyboard in Resources */,
 			);
